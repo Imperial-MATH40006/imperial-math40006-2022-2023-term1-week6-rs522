@@ -320,10 +320,10 @@ def question3_c():
     return "brown, dog, fox, jumps, lazy, over, quick, the, the"
     
 def question3_d():
-    return "The quick brown fox jumps over the lazy cat"
+    return "the quick brown fox jumps over the lazy cat"
     
 def question3_e():
-    return "The quick brown dog jumps over the lazy fox"
+    return "the quick brown dog jumps over the lazy fox"
         
 
 def question4i_a(_globals):
